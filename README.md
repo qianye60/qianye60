@@ -43,7 +43,7 @@
 
 ## 🧑‍💻 作者
 
-[[Qianye60](https://github.com/your-username)](https://github.com/qianye60/LLMQ-Horizon)
+[Qianye60](https://github.com/qianye60/LLMQ-Horizon)
 
 ---
 
