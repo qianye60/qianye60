@@ -1,16 +1,25 @@
 ## 🧑‍💻 作者
 
-<div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
+<details>
+  <summary>GitHub Stats</summary>
+  <br>
   <p align="center">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianye60&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=qianye60&theme=radical" alt="Anurag's GitHub stats" />
+    </a>
   </p>
-</div>
+</details>
 
-<div style="border: 1px solid #ddd; padding: 10px;">
+<details>
+  <summary>Top Languages</summary>
+  <br>
   <p align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianye60&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianye60&layout=compact" alt="Top Langs" />
+    </a>
   </p>
-</div>
+</details>
+
 
 ---
 
