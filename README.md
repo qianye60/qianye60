@@ -9,7 +9,7 @@ Python 小白.
     <td width="50%" style="border: 1px solid #d0d7de;">
       <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=qianye60&theme=radical" alt="Anurag's GitHub stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=qianye60&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
         </a>
       </p>
     </td>
