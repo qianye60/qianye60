@@ -1,7 +1,17 @@
 ## 🧑‍💻 作者
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianye60&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianye60&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="border: 1px solid #ddd; padding: 10px; margin-bottom: 10px;">
+  <p align="center">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianye60&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
+</div>
+
+<div style="border: 1px solid #ddd; padding: 10px;">
+  <p align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianye60&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
+</div>
+
 ---
 
 # 🐍 Python 初学者之旅 🚀
