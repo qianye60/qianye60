@@ -2,10 +2,6 @@
 
 Python 小白.
 
-# 项目
-
-
-
 # 📈 GitHub 统计信息
 
 <table>
@@ -31,4 +27,4 @@ Python 小白.
 
 # 项目文件
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=QQ-Robot-SwordFairy)](https://github.com/qianye60/QQ-Robot-SwordFairy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=QQ-Robot-SwordFairy&theme=dark)](https://github.com/qianye60/QQ-Robot-SwordFairy)
