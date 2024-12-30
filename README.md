@@ -28,8 +28,6 @@
   </tr>
 </table>
 
----
-
-# 项目文件
+# 📦 项目
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=QQ-Robot-SwordFairy&theme=dark)](https://github.com/qianye60/QQ-Robot-SwordFairy)
