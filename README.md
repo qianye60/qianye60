@@ -1,25 +1,23 @@
 ## 🧑‍💻 作者
 
-<details>
-  <summary>GitHub Stats</summary>
-  <br>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=qianye60&theme=radical" alt="Anurag's GitHub stats" />
-    </a>
-  </p>
-</details>
-
-<details>
-  <summary>Top Languages</summary>
-  <br>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianye60&layout=compact" alt="Top Langs" />
-    </a>
-  </p>
-</details>
-
+<table>
+  <tr>
+    <td width="50%" style="border: 1px solid #d0d7de;">
+      <p align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=qianye60&theme=radical" alt="Anurag's GitHub stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" style="border: 1px solid #d0d7de;">
+      <p align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianye60&layout=compact" alt="Top Langs" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
