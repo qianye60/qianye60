@@ -31,5 +31,5 @@
 # 📦 项目
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=QQ-Robot-SwordFairy&theme=dark)](https://github.com/qianye60/QQ-Robot-SwordFairy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repoWebCrawler-AnimePictures&theme=dark)](https://github.com/qianye60/WebCrawler-AnimePictures)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=QQ-Robot-SwordFairy&theme=dark)](https://github.com/qianye60/QQ-Robot-SwordFairy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=WebCrawler-AnimePictures&theme=dark)](https://github.com/qianye60/WebCrawler-AnimePictures)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=AnimePicCrawler&theme=dark)](https://github.com/qianye60/AnimePicCrawler)
