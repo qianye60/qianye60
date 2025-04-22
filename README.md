@@ -35,5 +35,3 @@
 [![AnimePicCrawler](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=AnimePicCrawler&theme=dark)](https://github.com/qianye60/AnimePicCrawler)
 
 ---
-
-### 欢迎一起交流学习！
