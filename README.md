@@ -30,7 +30,7 @@
 ## 📦 代表项目
 
 [![TokAI](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=TokAI&theme=dark)](https://github.com/qianye60/TokAI)
-[![QQ-Robot-SwordFairy](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=QQ-Robot-SwordFairy&theme=dark)](https://github.com/qianye60/QQ-Robot-SwordFairy)
+[![QQ-Robot-SwordFairy](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=HTMLproxy&theme=dark)](https://github.com/qianye60/HTMLproxy)
 [![QQ-Robot-SwordFairy](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=QQ-Robot-SwordFairy&theme=dark)](https://github.com/qianye60/QQ-Robot-SwordFairy)
 [![WebCrawler-AnimePictures](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=WebCrawler-AnimePictures&theme=dark)](https://github.com/qianye60/WebCrawler-AnimePictures)
 [![AnimePicCrawler](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=AnimePicCrawler&theme=dark)](https://github.com/qianye60/AnimePicCrawler)
