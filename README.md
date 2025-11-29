@@ -2,7 +2,7 @@
 
 # Qianye 👋
 
-**Full Stack Developer · AI Enthusiast · Reverse Engineering**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Reverse+Engineering;Open+Source+Lover)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-qianye60-181717?style=flat&logo=github)](https://github.com/qianye60)
 [![GitHub followers](https://img.shields.io/github/followers/qianye60?style=flat&logo=github&label=Followers)](https://github.com/qianye60)
@@ -18,7 +18,8 @@
 - 📍 Location: **China**
 - 💼 Role: **Full Stack Developer**
 - 🔬 Interests: **AI/ML**, **Reverse Engineering**, **Open Source**
-- 🌱 Currently learning: **LLM**, **Cloud Native**💬 Feel free to reach out for collaboration!
+- 🌱 Currently learning: **LLM**, **Cloud Native**
+- 💬 Feel free to reach out for collaboration!
 
 ---
 
@@ -26,33 +27,38 @@
 
 **Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts&perline=10" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,fastapi&perline=10" />
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=for-the-badge&logoColor=white)
 
-**Frontend**
+**Frontend & Mobile**
 
-<p>
-<img src="https://skillicons.dev/icons?i=vue,html,css&perline=10" />
-</p>
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![uni-app](https://img.shields.io/badge/uni--app-2B9939?style=for-the-badge&logo=vue.js&logoColor=white)
+![uni-app X](https://img.shields.io/badge/uni--app_X-007ACC?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Database**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=10" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **DevOps & Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git&perline=10" />
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -72,54 +78,15 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects<div align="center">
 
-<table>
-<tr>
-<td width="50%">
+[![TokAI](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=TokAI&theme=github_dark&hide_border=true)](https://github.com/qianye60/TokAI)
+[![HTMLproxy](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=HTMLproxy&theme=github_dark&hide_border=true)](https://github.com/qianye60/HTMLproxy)
 
-**🤖 TokAI**
+[![QQ-Robot-SwordFairy](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=QQ-Robot-SwordFairy&theme=github_dark&hide_border=true)](https://github.com/qianye60/QQ-Robot-SwordFairy)
+[![WebCrawler-AnimePictures](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=WebCrawler-AnimePictures&theme=github_dark&hide_border=true)](https://github.com/qianye60/WebCrawler-AnimePictures)
 
-AI-powered application
-
-[![Repo](https://img.shields.io/badge/GitHub-TokAI-181717?style=flat&logo=github)](https://github.com/qianye60/TokAI)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-</td>
-<td width="50%">
-
-**🌐 HTMLproxy**
-
-HTML proxy tool
-
-[![Repo](https://img.shields.io/badge/GitHub-HTMLproxy-181717?style=flat&logo=github)](https://github.com/qianye60/HTMLproxy)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🎮 QQ-Robot-SwordFairy**
-
-QQ Robot project
-
-[![Repo](https://img.shields.io/badge/GitHub-QQ--Robot-181717?style=flat&logo=github)](https://github.com/qianye60/QQ-Robot-SwordFairy)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-</td>
-<td width="50%">
-
-**🕷️ WebCrawler-AnimePictures**
-
-Anime pictures crawler
-
-[![Repo](https://img.shields.io/badge/GitHub-WebCrawler-181717?style=flat&logo=github)](https://github.com/qianye60/WebCrawler-AnimePictures)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
