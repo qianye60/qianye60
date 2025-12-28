@@ -13,7 +13,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+###🧑‍💻 About Me
 
 ```yaml
 location: China
@@ -39,6 +39,16 @@ learning: [LLM, Cloud Native]
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center"><img src="https://github-readme-stats.zohan.tech/api?username=qianye60&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=qianye60&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=qianye60&theme=github-dark&hide_border=true&area=true&area_color=58A6FF" width="100%"/>
 
 ---
 
