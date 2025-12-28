@@ -2,7 +2,7 @@
 
 # Hi, I'm Qianye 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Lover)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Lover)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-qianye60-181717?style=flat-square&logo=github)](https://github.com/qianye60)
 [![Followers](https://img.shields.io/github/followers/qianye60?style=flat-square&logo=github&label=Followers)](https://github.com/qianye60)
@@ -15,45 +15,41 @@
 
 ### 🧑‍💻 About Me
 
-- 📍 **China**
-- 💼 **Full Stack Developer**
-- 🔬 **AI/ML** · **Reverse Engineering** · **Open Source**
-- 🌱 Currently learning **LLM** & **Cloud Native**
+```yaml
+location: China
+role: Full Stack Developer
+interests: [AI/ML, Reverse Engineering, Open Source]
+learning: [LLM, Cloud Native]
+```
 
 ---
 
 ### 🛠 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,spring,fastapi,vue,html,css,mysql,redis,docker,linux,git&theme=dark&perline=8"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=qianye60&show_icons=true&theme=github_dark&hide_border=true&icon_color=58A6FF&title_color=58A6FF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianye60&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" width="40%"/>
-</div>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qianye60&theme=github-dark&hide_border=true&area=true&area_color=58A6FF50&line=58A6FF&point=ffffff" width="100%"/>
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### 🚀 Featured Projects
 
-<div align="center">
-
-[![TokAI](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=TokAI&theme=github_dark&hide_border=true)](https://github.com/qianye60/TokAI)
-[![HTMLproxy](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=HTMLproxy&theme=github_dark&hide_border=true)](https://github.com/qianye60/HTMLproxy)
-
-[![QQ-Robot-SwordFairy](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=QQ-Robot-SwordFairy&theme=github_dark&hide_border=true)](https://github.com/qianye60/QQ-Robot-SwordFairy)
-[![WebCrawler-AnimePictures](https://github-readme-stats.vercel.app/api/pin/?username=qianye60&repo=WebCrawler-AnimePictures&theme=github_dark&hide_border=true)](https://github.com/qianye60/WebCrawler-AnimePictures)
-
-</div>
+| Project |描述|
+|---------|-------------|
+| [**TokAI**](https://github.com/qianye60/TokAI) | 🤖 AI 对话应用 |
+| [**HTMLproxy**](https://github.com/qianye60/HTMLproxy) | 🌐 HTML 代理工具 |
+| [**QQ-Robot-SwordFairy**](https://github.com/qianye60/QQ-Robot-SwordFairy) | 🎮 QQ 机器人 |
+| [**WebCrawler-AnimePictures**](https://github.com/qianye60/WebCrawler-AnimePictures) | 🕷️ 动漫图片爬虫 |
 
 ---
 
