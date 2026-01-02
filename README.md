@@ -57,9 +57,9 @@ learning: [LLM, Cloud Native]
 | Project |描述|
 |---------|-------------|
 | [**XianTu**](https://github.com/qianye60/XianTu) |  🧘仙途 AI驱动修仙世界 |
-| [**TokAI**](https://github.com/qianye60/TokAI) | 🤖 AI 对话应用 |
+| [**TokAI**](https://github.com/qianye60/TokAI) | 💬 AI 对话应用 |
 | [**HTMLproxy**](https://github.com/qianye60/HTMLproxy) | 🌐 HTML 代理工具 |
-| [**QQ-Robot-SwordFairy**](https://github.com/qianye60/QQ-Robot-SwordFairy) | 🎮 QQ 机器人 |
+| [**QQ-Robot-SwordFairy**](https://github.com/qianye60/QQ-Robot-SwordFairy) | 🤖 QQ 机器人 |
 | [**WebCrawler-AnimePictures**](https://github.com/qianye60/WebCrawler-AnimePictures) | 🕷️ 动漫图片爬虫 |
 
 ---
