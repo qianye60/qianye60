@@ -48,8 +48,6 @@ learning: [LLM, Cloud Native]
   <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=qianye60&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qianye60&theme=github-dark&hide_border=true&area=true&area_color=58A6FF" width="100%"/>
-
 ---
 
 ### 🚀 Featured Projects
